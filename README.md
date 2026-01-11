@@ -5,12 +5,11 @@
 Digital Media Strategist and Brand Growth Consultant helping businesses scale visibility and lead generation while building secure, cyber-aware digital solutions that protect data and brand assets.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 To help businesses achieve sustainable growth through strategic media and brand solutions while integrating cybersecurity and digital risk awareness to protect data, platforms, and brand trust.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
